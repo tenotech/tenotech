@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tenotech&label=Profile%20views&color=0e75b6&style=flat" alt="tenotech" /> </p>
 
 <!-- 👨‍💻 All of my projects are available at [tenotech.tn](tenotech.tn) -->
-- 👤 My portfolio [https://tenotech.netlify.app/](tenotech.net)
+- 👤 My portfolio [tenotech.net](https://tenotech.netlify.app/)
 
-- 📝 I regularly write articles on Medium [https://medium.com/@teno.tech](@teno.tech) 
+- 📝 I regularly write articles on Medium [@teno.tech](https://medium.com/@teno.tech) 
 
 - 💬 Ask me about **Java, Problem solving, new idea, Innovation, Technology ...**
 
